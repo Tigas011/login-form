@@ -20,7 +20,7 @@ Para usar este formulário de login em seu projeto, siga estes passos:
 
 ## Visualização
 
-![Visualização do Formulário de Login](preview.png)
+![Visualização do Formulário de Login](assets/preview.png)
 
 ## Dependências
 
