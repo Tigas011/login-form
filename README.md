@@ -28,7 +28,7 @@ Este projeto não depende de nenhuma biblioteca ou framework externo. Ele utiliz
 
 ## Autor
 
-Este formulário de login foi criado por [Seu Nome]. Você pode entrar em contato comigo através do e-mail [seu-email@exemplo.com].
+Este formulário de login foi criado por Thiago Souza. Você pode entrar em contato comigo através do e-mail ts9590104@gmail.com.
 
 ## Licença
 
