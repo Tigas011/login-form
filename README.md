@@ -22,6 +22,10 @@ Dependências
 
 Este projeto não depende de nenhuma biblioteca ou framework externo. Ele utiliza apenas HTML e CSS para criar o formulário de login.
 
+## Visualização
+
+![Visualização do Formulário de Login](preview.png)
+
 Autor
 
 Este formulário de login foi criado por Thiago Souza. Você pode entrar em contato comigo através do e-mail ts9590104@gmail.com.
@@ -29,3 +33,4 @@ Este formulário de login foi criado por Thiago Souza. Você pode entrar em cont
 Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE). Sinta-se à vontade para usar e modificar para seus próprios propósitos.
+
