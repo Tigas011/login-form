@@ -20,7 +20,7 @@ Para usar este formulário de login em seu projeto, siga estes passos:
 
 ## Visualização
 
-![Visualização do Formulário de Login]([assets/preview.png](https://github.com/Tigas011/login-form/blob/main/assets/preview.png.png))
+![Visualização do Formulário de Login](https://github.com/Tigas011/login-form/blob/main/assets/preview.png.png)
 
 ## Dependências
 
